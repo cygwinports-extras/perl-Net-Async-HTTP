@@ -1,0 +1,14 @@
+CPAN_AUTHOR=pevans
+inherit perl
+
+NAME="perl-Net-Async-HTTP"
+VERSION=0.36
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl asynchronous HTTP module"
+DESCRIPTION="This object class implements an asynchronous HTTP user agent. It
+sends requests to servers, returning Future instances to yield responses when
+they are received. The object supports multiple concurrent connections to
+servers, and allows multiple requests in the pipeline to any one connection."
+
+ARCH=noarch
