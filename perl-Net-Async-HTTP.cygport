@@ -2,7 +2,7 @@ CPAN_AUTHOR=pevans
 inherit perl
 
 NAME="perl-Net-Async-HTTP"
-VERSION=0.36
+VERSION=0.38
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl asynchronous HTTP module"
